@@ -1,6 +1,6 @@
 ---
-title: "LAB4 Multiple Linear Regression"
-author: "Samuel Mweni"
+title: "Forking Homework"
+author: "Samuel Mweni and Zach Popkin"
 date: "Stat 415/615 Regression, `r lubridate::year(Sys.Date())`"
 output:
   word_document:
